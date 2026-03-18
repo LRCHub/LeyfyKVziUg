@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ポケット",
+  "base_artist": "whiteeeen",
+  "createdAt": "2026-03-18T18:19:37.528031Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポケット カスタネット",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_ポケット_カスタネット_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ポケット",
+      "artist": "Ai Higuchi",
+      "has_synced": false,
+      "path": "select/02_ポケット_Ai_Higuchi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ポケット",
+      "artist": "Ai Otsuka",
+      "has_synced": false,
+      "path": "select/03_ポケット_Ai_Otsuka.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ポケット",
+      "artist": "大塚愛",
+      "has_synced": false,
+      "path": "select/04_ポケット_大塚愛.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ポケット 〜 Last Love Letter 〜",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/05_ポケット_〜_Last_Love_Letter_〜_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ポケット ～Last Love Letter～",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/06_ポケット_~Last_Love_Letter~_大塚愛.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ポケット カウボーイ",
+      "artist": "電気グルーヴ",
+      "has_synced": false,
+      "path": "select/07_ポケット_カウボーイ_電気グルーヴ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ポケット カウボーイ",
+      "artist": "Denki Groove",
+      "has_synced": false,
+      "path": "select/08_ポケット_カウボーイ_Denki_Groove.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ポケット ~ Last Love Letter ~ (from LOVE is BEST)",
+      "artist": "大塚愛",
+      "has_synced": false,
+      "path": "select/09_ポケット_~_Last_Love_Letter_~_(from_LOVE_is_BEST)_大塚愛.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ポケット",
+      "artist": "大塚　愛",
+      "has_synced": false,
+      "path": "select/10_ポケット_大塚_愛.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ポケット",
+      "artist": "whiteeeen",
+      "has_synced": true,
+      "path": "select/11_ポケット_whiteeeen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ポケット",
+      "artist": "Ai Otsuka",
+      "has_synced": false,
+      "path": "select/12_ポケット_Ai_Otsuka.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pocket ~Last Love Lettter~ (ポケット ～Last Love Letter～)",
+      "artist": "Ai Otsuka",
+      "has_synced": false,
+      "path": "select/13_Pocket_~Last_Love_Lettter~_(ポケット_~Last_Love_Letter~)_Ai_Otsuka.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ポケット",
+      "artist": "佐藤史果",
+      "has_synced": false,
+      "path": "select/14_ポケット_佐藤史果.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポケット",
+      "artist": "whiteeeen",
+      "has_synced": false,
+      "path": "select/pl_01_ポケット_whiteeeen.txt"
+    }
+  ]
+}
